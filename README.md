@@ -84,7 +84,7 @@ iOSPack Store caters to users of all iPhone and iPad models, providing support f
   
 - 🤖 Compatibility: iOSPack Store is designed to work seamlessly with a wide range of iOS devices, ensuring compatibility and accessibility for all users.
 
-🌈 Enhanced Experience: Break free from the limitations of stock iOS and explore the endless possibilities offered by iOSPack Store, enhancing your device's capabilities and unlocking new features.
+- 🌈 Enhanced Experience: Break free from the limitations of stock iOS and explore the endless possibilities offered by iOSPack Store, enhancing your device's capabilities and unlocking new features.
 
 With its user-friendly interface, extensive collection of jailbreak solutions, and commitment to innovation, iOSPack Store is the ultimate destination for iOS customization. Whether you're looking to personalize your device's appearance, enhance its functionality, or explore new features, the iOSPack Store has everything you need to take your iOS experience to the next level. 
 
