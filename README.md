@@ -2,7 +2,7 @@
 
 Let’s dive into the exciting world of IPA libraries and iOS tweaked app stores in 2024. These repositories offer a treasure trove of modified apps, games, and utilities for your iOS devices. Whether you’re looking to enhance your iPhone experience or explore unique features, these platforms have got you covered.
 
-**<h4 align="center">The apps you love. From a place you can trust!</h4>**
+**<h4 align="center">The IPA apps you love. From a place you can trust!</h4>**
 ![Top IPA libraries of the world](https://github.com/iOSGodsApp/ipa-library/blob/main/Assets/Top%20IPA%20libraries%20of%20the%20world.png)
 
 ## 01. iTweaked Store
@@ -10,6 +10,7 @@ Let’s dive into the exciting world of IPA libraries and iOS tweaked app stores
 Experience the best quality of iTweaked Store, a unique freemium library of tweaked IPA applications. Designed with the discerning iOS user in mind, iTweaked Store is a beacon of innovation, offering a handpicked selection of premium apps and services to elevate your iOS experience.
 
 <p align="center">
+  ![iTweaked Store Best IPA Library](https://github.com/iOSGodsApp/ipa-library/blob/main/Assets/iTweaked%20Store%20-%20Best%20IPA%20Library.webp)
 📥 <a href="https://iospack.com/apps/download-itweaked-store/">Install iTweaked Store</a>
 </p>
 
