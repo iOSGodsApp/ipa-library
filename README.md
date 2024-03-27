@@ -226,6 +226,6 @@ Unlock a world of apps and games beyond the confines of the official Apple App S
 
 The TrollsMe TrollStore IPA Installer is your gateway to a more personalized and enhanced iOS experience. With its wide selection of content, direct installation feature, and user-friendly interface, the TrollsMe TrollStore IPA Installer is the perfect companion for iOS users looking to explore beyond the confines of the App Store. Start your journey with the TrollsMe TrollStore IPA Installer today and elevate your iOS experience!
 
-## Credit 
+## Credits
 
 Developers are the backbone of any software project, including IPA libraries. They are responsible for designing, coding, testing, and maintaining the software. Their expertise and dedication ensure that the libraries function smoothly and meet the needs of the users. They continually work on updates and improvements to keep the libraries relevant and efficient.
