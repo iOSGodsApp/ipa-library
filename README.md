@@ -26,7 +26,7 @@ Elevate your iOS journey with iTweaked Store – a convergence of exclusivity, s
 Unlock the full potential of your iOS device with Bootstra AI, an AI-powered jailbreaking tool designed to provide a seamless and secure experience for iOS users. Whether you're looking to enhance your entertainment options, boost productivity, or customize your device with unique tweaks, Bootstra AI has everything you need.
 
 <p align="center">
-📥 [Install Bootstra AI Tool](https://iospack.com/apps/bootstra-ai/)
+📥 <a href="https://iospack.com/apps/bootstra-ai/">Install Bootstra AI Tool</a>
 </p>
 
 ### Features of Bootstra AI
