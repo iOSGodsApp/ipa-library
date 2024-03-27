@@ -7,7 +7,7 @@ Let’s dive into the exciting world of IPA libraries and iOS tweaked app stores
 Experience the best quality of iTweaked Store, a unique freemium library of tweaked IPA applications. Designed with the discerning iOS user in mind, iTweaked Store is a beacon of innovation, offering a handpicked selection of premium apps and services to elevate your iOS experience.
 
 <p align="center">
-📥 [Install iTweaked Store](https://iospack.com/store/#cydia)
+📥 <a href="https://iospack.com/store/#cydia">Install iTweaked Store</a>
 </p>
 
 ### Features of iTweaked Store
