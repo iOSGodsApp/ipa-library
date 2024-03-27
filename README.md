@@ -171,6 +171,7 @@ The IPA Store is your ultimate destination for the latest jailbreak solutions, t
 - 🌈 Enhanced Experience: Elevate your iOS experience to new heights by exploring the extraordinary possibilities offered by the IPA Store, breaking free from limitations and unlocking new features.
 
 The IPA Store isn't just a platform; it's a community for iOS enthusiasts to explore, innovate, and customize their devices. Whether you're in search of the latest jailbreak solution or looking to enhance your device with unique themes and tweaks, the IPA Store has something for everyone. Don't wait any longer – dive into the world of endless possibilities with the IPA Store today!
+
 ## 07. IPA Library
 
 The IPA Library is your gateway to a world of apps, games, and tweaks beyond the confines of the official Apple App Store. Discover a diverse range of options to personalize and enhance your iOS experience according to your preferences.
@@ -224,3 +225,7 @@ Unlock a world of apps and games beyond the confines of the official Apple App S
 - 🔓 No Jailbreak Required: Enjoy the convenience of installing apps and games without the need for jailbreaking your device, offering accessibility to all users.
 
 The TrollsMe TrollStore IPA Installer is your gateway to a more personalized and enhanced iOS experience. With its wide selection of content, direct installation feature, and user-friendly interface, the TrollsMe TrollStore IPA Installer is the perfect companion for iOS users looking to explore beyond the confines of the App Store. Start your journey with the TrollsMe TrollStore IPA Installer today and elevate your iOS experience!
+
+## Credit 
+
+Developers are the backbone of any software project, including IPA libraries. They are responsible for designing, coding, testing, and maintaining the software. Their expertise and dedication ensure that the libraries function smoothly and meet the needs of the users. They continually work on updates and improvements to keep the libraries relevant and efficient.
