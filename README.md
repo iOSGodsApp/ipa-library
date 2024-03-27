@@ -10,7 +10,7 @@ Let’s dive into the exciting world of IPA libraries and iOS tweaked app stores
 Experience the best quality of iTweaked Store, a unique freemium library of tweaked IPA applications. Designed with the discerning iOS user in mind, iTweaked Store is a beacon of innovation, offering a handpicked selection of premium apps and services to elevate your iOS experience.
 
 <p align="center">
-  <img src="https://github.com/iOSGodsApp/ipa-library/blob/main/Assets/iTweaked%20Store%20-%20Best%20IPA%20Library.webp" alt="iTweaked Store Best IPA Library">
+  <img src="https://github.com/iOSGodsApp/ipa-library/blob/main/Assets/iTweaked%20Store%20-%20Best%20IPA%20Library.webp" alt="iTweaked Store Best IPA Library" height="480" width="480">
   <br>
   📥 <a href="https://iospack.com/apps/download-itweaked-store/">Install iTweaked Store</a>
 </p>
